@@ -1,0 +1,12 @@
+C:\Users\Andre\Desktop\work\to be added\HW2_COP4367_AOlive16\HW2_COP4367_AOlive16\WinFormGrocery 120620a Tabs\WinFormGrocery\bin\Debug\WinFormGrocery.exe
+C:\Users\Andre\Desktop\work\to be added\HW2_COP4367_AOlive16\HW2_COP4367_AOlive16\WinFormGrocery 120620a Tabs\WinFormGrocery\bin\Debug\WinFormGrocery.pdb
+C:\Users\Andre\Desktop\work\to be added\HW2_COP4367_AOlive16\HW2_COP4367_AOlive16\WinFormGrocery 120620a Tabs\WinFormGrocery\obj\x86\Debug\WinFormGrocery.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Desktop\work\to be added\HW2_COP4367_AOlive16\HW2_COP4367_AOlive16\WinFormGrocery 120620a Tabs\WinFormGrocery\obj\x86\Debug\WinFormGrocery.Form1.resources
+C:\Users\Andre\Desktop\work\to be added\HW2_COP4367_AOlive16\HW2_COP4367_AOlive16\WinFormGrocery 120620a Tabs\WinFormGrocery\obj\x86\Debug\WinFormGrocery.GroceryItemForm.resources
+C:\Users\Andre\Desktop\work\to be added\HW2_COP4367_AOlive16\HW2_COP4367_AOlive16\WinFormGrocery 120620a Tabs\WinFormGrocery\obj\x86\Debug\WinFormGrocery.GrocerySupplierForm.resources
+C:\Users\Andre\Desktop\work\to be added\HW2_COP4367_AOlive16\HW2_COP4367_AOlive16\WinFormGrocery 120620a Tabs\WinFormGrocery\obj\x86\Debug\WinFormGrocery.Properties.Resources.resources
+C:\Users\Andre\Desktop\work\to be added\HW2_COP4367_AOlive16\HW2_COP4367_AOlive16\WinFormGrocery 120620a Tabs\WinFormGrocery\obj\x86\Debug\WinFormGrocery.ShowGroceryListForm.resources
+C:\Users\Andre\Desktop\work\to be added\HW2_COP4367_AOlive16\HW2_COP4367_AOlive16\WinFormGrocery 120620a Tabs\WinFormGrocery\obj\x86\Debug\WinFormGrocery.ShowGrocerySupplierForm.resources
+C:\Users\Andre\Desktop\work\to be added\HW2_COP4367_AOlive16\HW2_COP4367_AOlive16\WinFormGrocery 120620a Tabs\WinFormGrocery\obj\x86\Debug\WinFormGrocery.csproj.GenerateResource.Cache
+C:\Users\Andre\Desktop\work\to be added\HW2_COP4367_AOlive16\HW2_COP4367_AOlive16\WinFormGrocery 120620a Tabs\WinFormGrocery\obj\x86\Debug\WinFormGrocery.exe
+C:\Users\Andre\Desktop\work\to be added\HW2_COP4367_AOlive16\HW2_COP4367_AOlive16\WinFormGrocery 120620a Tabs\WinFormGrocery\obj\x86\Debug\WinFormGrocery.pdb
